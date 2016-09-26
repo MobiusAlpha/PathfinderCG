@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Common\bin\Debug\CharacterGen.Common.dll
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Common\bin\Debug\CharacterGen.Common.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Common\obj\Debug\CharacterGen.Common.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Common\obj\Debug\CharacterGen.Common.dll
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Common\obj\Debug\CharacterGen.Common.pdb

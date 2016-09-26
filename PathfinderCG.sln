@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterGen.Controllers", "CharacterGen.Controllers\CharacterGen.Controllers.csproj", "{D5DF9DAD-4348-44B2-886D-64C38192B4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterGen.Console", "CharacterGen.Console\CharacterGen.Console.csproj", "{9AAF287D-5D42-4E59-915A-E7A0F2DF3D07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8A6FA5CD-4300-47CB-A190-39B020B3DB3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{F6F85D67-EF82-438F-A4AD-4729AE853617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterGen.Data.Common", "CharacterGen.Data\CharacterGen.Data.Common.csproj", "{D2B42B36-9B56-41C2-926E-EB2738298473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterGen.Common", "CharacterGen.Common\CharacterGen.Common.csproj", "{57895924-1760-4CD8-951A-407259B0D856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterGen.Data.Filestore", "CharacterGen.Data.Filestore\CharacterGen.Data.Filestore.csproj", "{A02F980E-3DD1-48C2-B930-238A2F555098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5DF9DAD-4348-44B2-886D-64C38192B4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DF9DAD-4348-44B2-886D-64C38192B4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DF9DAD-4348-44B2-886D-64C38192B4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DF9DAD-4348-44B2-886D-64C38192B4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAF287D-5D42-4E59-915A-E7A0F2DF3D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAF287D-5D42-4E59-915A-E7A0F2DF3D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAF287D-5D42-4E59-915A-E7A0F2DF3D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAF287D-5D42-4E59-915A-E7A0F2DF3D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B42B36-9B56-41C2-926E-EB2738298473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B42B36-9B56-41C2-926E-EB2738298473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B42B36-9B56-41C2-926E-EB2738298473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B42B36-9B56-41C2-926E-EB2738298473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57895924-1760-4CD8-951A-407259B0D856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57895924-1760-4CD8-951A-407259B0D856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57895924-1760-4CD8-951A-407259B0D856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57895924-1760-4CD8-951A-407259B0D856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02F980E-3DD1-48C2-B930-238A2F555098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02F980E-3DD1-48C2-B930-238A2F555098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02F980E-3DD1-48C2-B930-238A2F555098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02F980E-3DD1-48C2-B930-238A2F555098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\CharacterGen.Console.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\CharacterGen.Console.exe
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\CharacterGen.Console.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\CharacterGen.Common.dll
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\FluentCommandLineParser.dll
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\SimpleInjector.dll
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\CharacterGen.Common.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\FluentCommandLineParser.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\FluentCommandLineParser.xml
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\bin\Debug\SimpleInjector.xml
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\obj\Debug\CharacterGen.Console.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\obj\Debug\CharacterGen.Console.exe
+c:\users\alexander\documents\visual studio 2015\Projects\PathfinderCG\CharacterGen.Console\obj\Debug\CharacterGen.Console.pdb
